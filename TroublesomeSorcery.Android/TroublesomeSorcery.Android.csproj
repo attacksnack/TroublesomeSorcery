@@ -42,10 +42,6 @@
     <AndroidManagedSymbols>true</AndroidManagedSymbols>
     <AndroidUseSharedRuntime>false</AndroidUseSharedRuntime>
   </PropertyGroup>
-  <PropertyGroup>
-    <IntermediateOutputPath>..\..\</IntermediateOutputPath>
-	<UseShortFileNames>True</UseShortFileNames>
-	</PropertyGroup>
   <ItemGroup>
     <Reference Include="Mono.Android" />
     <Reference Include="System" />
